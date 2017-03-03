@@ -1,15 +1,11 @@
----
-title: "Capstone ideas"
-toc:  
-output: html_document
----
+
 
 ### Project 1: Gentrification: A much maligned phenomenon?
 
 #### Issue
 In London, as in many cosmopolitan global cities, gentrification is charging through previously unfashionably postcodes leaving many aghast at impending social displacement of existing communities and the general negative aspects often levelled against gentrifcation. However, could there be benefits to the phenomenon for both new and incumbent residents? Do increased average local income boost coffers to finance initiatives for social spaces, improvements to local schools, existing social housing stock and other social development indicators? 
 
-#### Proposed Solution
+#### Proposed solution
 * Identify gentrification trends from house price, income & location data in census
 * Use local authority data to find if during periods of gentrification investment in mixed/ social housing, social space planning, school league tables, etc has increased 
 * Other elements in this analysis still to be decided after discussion with mentor.
@@ -29,7 +25,7 @@ Estate agent data
 * (tip from my mentor, Branko) Predicting gentrification using longitudinal census data https://dl.dropboxusercontent.com/u/1067823/2016_8_1%20Urban%20Spatial%20-%20Predicting%20home%20prices%20w%20census%20data.pdf (UrbanSpatialAnalysis.com)
 
 #### Possible problems / limitations
-
+TBD
 
 -----------
 
@@ -38,7 +34,7 @@ Estate agent data
 #### Issue
 Brexit was a body blow to the UK, could the result in swing constituencies have been predicted from the volume and sentiment of social media activity of voters within that region? 
 
-#### Proposed Solution
+#### Proposed solution
 Use text & sentiment analysis of tweets and Facebook postings to measure political engagement (voter turnout, voter registration) in the EU Referendum and compare it to the previous general election. 
 
 #### Intended audience 
@@ -63,7 +59,7 @@ From initial discussions with my mentor the volume of data I would need to gathe
 #### Issue
 Technology and social media have reduced the barriers to entry in numerous industries, making it feasible for individuals to reach their markets directly, bypassing traditional intermediaries and retaining more control over their product. Is self-publishing now a viable way for authors to get their work out there?
 
-#### Proposed Solution
+#### Proposed solution
 
 Identify where independent authors have acheived most success:
 
