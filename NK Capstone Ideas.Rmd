@@ -1,0 +1,92 @@
+---
+title: "Capstone ideas"
+toc:  
+output: html_document
+---
+
+### Project 1: Gentrification: A much maligned phenomenon?
+
+#### Issue
+In London, as in many cosmopolitan global cities, gentrification is charging through previously unfashionably postcodes leaving many aghast at impending social displacement of existing communities and the general negative aspects often levelled against gentrifcation. However, could there be benefits to the phenomenon for both new and incumbent residents? Do increased average local income boost coffers to finance initiatives for social spaces, improvements to local schools, existing social housing stock and other social development indicators? 
+
+#### Proposed Solution
+* Identify gentrification trends from house price, income & location data in census
+* Use local authority data to find if during periods of gentrification investment in mixed/ social housing, social space planning, school league tables, etc has increased 
+* Other elements in this analysis still to be decided after discussion with mentor.
+
+
+#### Intended audience
+
+Local authority policy makers: Identify the trend and direction of gentrification, pinpoint those neighbourhoods requiring action now to forestall longer term negative results. This will subsequently ensure that both new and current residents share in the economic development of the emerging neighbourhood.
+ 
+
+#### Datasets
+UK census data: https://www.ons.gov.uk/census/2011census/2011censusdata/bulkdata  
+Local authority data  
+Estate agent data  
+
+#### Possible methodology / approach
+* (tip from my mentor, Branko) Predicting gentrification using longitudinal census data https://dl.dropboxusercontent.com/u/1067823/2016_8_1%20Urban%20Spatial%20-%20Predicting%20home%20prices%20w%20census%20data.pdf (UrbanSpatialAnalysis.com)
+
+#### Possible problems / limitations
+
+
+-----------
+
+### Project 2: Social media activity as an indicator of political engagement
+
+#### Issue
+Brexit was a body blow to the UK, could the result in swing constituencies have been predicted from the volume and sentiment of social media activity of voters within that region? 
+
+#### Proposed Solution
+Use text & sentiment analysis of tweets and Facebook postings to measure political engagement (voter turnout, voter registration) in the EU Referendum and compare it to the previous general election. 
+
+#### Intended audience 
+Provide genreal insight into political engagement in the UK. 
+
+#### Datasets
+* Tweets and Facebook postings limited geographically to accounts within the constituencies under review.
+* UK electoral commission data http://www.electoralcommission.org.uk/__data/assets/file/0014/212135/EU-referendum-result-data.csv
+
+#### Possible methodology / approach
+
+Research how other studies have approached the topic. For example, LSE Brexit seminar 
+
+#### Possible problems / limitations  
+
+From initial discussions with my mentor the volume of data I would need to gather for useful dataset could prove overly time-consuming.
+
+-----------
+
+### Project 3: Is self-publishing the way to go?  
+
+#### Issue
+Technology and social media have reduced the barriers to entry in numerous industries, making it feasible for individuals to reach their markets directly, bypassing traditional intermediaries and retaining more control over their product. Is self-publishing now a viable way for authors to get their work out there?
+
+#### Proposed Solution
+
+Identify where independent authors have acheived most success:
+
+* Which platforms: CreateSpace, Blurb, Smashwords, AuthorSolutions, etc? 
+* Which genres: Fiction vs non-fiction (subcategories within each, spanning graphic novels to textbooks)?
+* Which formats: Physical book / Kindle/ other ePubs?
+
+
+#### Intended audience 
+
+* Authors: Weigh up their marketing / publishing options
+* Publishers: Identify which platforms are fruitful sources from which to poach authors who have shown initial success there
+
+
+#### Datasets
+* Most comprehensive study to date is from USA where the market is more mature:
+    + "Author Earnings Reports" (public data scraped from Amazon's bestseller lists) http://authorearnings.com/reports/
+    + Bowker ISBN reports on self-published titles 2008-2013 http://www.bowker.com/tools-resources/Bowker-Data.html
+
+* (UK) Nieslen BookData Online http://www.isbn.nielsenbook.co.uk/controller.php?page=121
+
+
+#### Possible problems / limitations
+
+E-books presumably make up largest proportion of self-published titles, but Amazon doesn't disclose e-book sales
+
